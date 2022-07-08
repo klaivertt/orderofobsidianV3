@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "orderofobsidian:citrine_ore",
+    "orderofobsidian:citrine_block",
+    "orderofobsidian:raw_citrine_block",
+    "orderofobsidian:deepslate_citrine_ore",
+    "orderofobsidian:netherrack_citrine_ore",
+    "orderofobsidian:endstone_citrine_ore"
+  ]
+}

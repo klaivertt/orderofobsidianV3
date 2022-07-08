@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": { "model": "orderofobsidian:block/kaupen_portal_ew" },
+    "axis=x": { "model": "orderofobsidian:block/kaupen_portal_ns" }
+  }
+}

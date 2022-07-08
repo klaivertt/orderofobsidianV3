@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "orderofobsidian:block/deepslate_door_top",
+    "bottom": "orderofobsidian:block/deepslate_door_bottom"
+  }
+}

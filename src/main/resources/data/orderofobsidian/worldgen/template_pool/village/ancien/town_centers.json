@@ -1,0 +1,33 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/town_centers/ancien_meeting_point_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 98
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/town_centers/ancien_meeting_point_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 98
+    },
+    {
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/town_centers/ancien_meeting_point_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid"
+      },
+      "weight": 49
+    }
+  ],
+  "fallback": "minecraft:empty",
+  "name": "orderofobsidian:village/ancien/town_centers"
+}

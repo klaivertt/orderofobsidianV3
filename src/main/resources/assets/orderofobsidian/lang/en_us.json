@@ -1,0 +1,92 @@
+{
+  "item.orderofobsidian.citrine": "Citrine",
+  "item.orderofobsidian.raw_citrine": "Raw Citrine",
+  "item.orderofobsidian.dowsing_rod": "Dowsing Rod",
+  "item.orderofobsidian.cucumber": "Cucumber",
+  "item.orderofobsidian.coal_coke": "Coal Coke",
+
+  "item.orderofobsidian.citrine_pickaxe": "Citrine Pickaxe",
+  "item.orderofobsidian.citrine_axe": "Citrine Axe",
+  "item.orderofobsidian.citrine_shovel": "Citrine Shovel",
+  "item.orderofobsidian.citrine_hoe": "Citrine Hoe",
+  "item.orderofobsidian.citrine_sword": "Citrine Sword",
+
+  "item.orderofobsidian.citrine_helmet": "Citrine Helmet",
+  "item.orderofobsidian.citrine_chestplate": "Citrine Chestplate",
+  "item.orderofobsidian.citrine_leggings": "Citrine Leggings",
+  "item.orderofobsidian.citrine_boots": "Citrine Boots",
+
+  "item.orderofobsidian.magic_dust": "Magic Dust",
+  "item.orderofobsidian.data_tablet": "Data Tablet",
+  "item.orderofobsidian.kaupenbow": "Kaupenbow",
+
+  "item.orderofobsidian.cucumber_seeds": "Cucumber Seeds",
+  "item.orderofobsidian.citrine_staff": "Citrine Staff",
+
+  "item.orderofobsidian.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.orderofobsidian.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "item.minecraft.potion.effect.freeze_potion": "Freeze Potion",
+  "item.minecraft.splash_potion.effect.freeze_potion": "Splash Potion of Freeze",
+  "item.minecraft.lingering_potion.effect.freeze_potion": "Lingering Potion of Freeze",
+
+  "item.orderofobsidian.gem_cutter_tool": "Gem Cutter Tool",
+  "item.orderofobsidian.honey_bucket": "Honey Bucket",
+
+  "item.orderofobsidian.raccoon_spawn_egg": "Raccoon Spawn Egg",
+  "item.orderofobsidian.animated_item": "Animated Item",
+  "item.orderofobsidian.animated_block": "Animated Block",
+
+  "block.orderofobsidian.citrine_block": "Citrine Block",
+  "block.orderofobsidian.raw_citrine_block": "Raw Citrine Block",
+  "block.orderofobsidian.citrine_ore": "Citrine Ore",
+  "block.orderofobsidian.deepslate_citrine_ore": "Deepslate Citrine Ore",
+  "block.orderofobsidian.netherrack_citrine_ore": "Netherrack Citrine Ore",
+  "block.orderofobsidian.endstone_citrine_ore": "Endstone Citrine Ore",
+  "block.orderofobsidian.speedy_block": "Speedy Block",
+
+  "block.orderofobsidian.citrine_slab": "Citrine Slab",
+  "block.orderofobsidian.citrine_stairs": "Citrine Stairs",
+  "block.orderofobsidian.citrine_fence": "Citrine Fence",
+  "block.orderofobsidian.citrine_wall": "Citrine Wall",
+  "block.orderofobsidian.citrine_fence_gate": "Citrine Fence Gate",
+
+  "block.orderofobsidian.citrine_button": "Citrine Button",
+  "block.orderofobsidian.citrine_pressure_plate": "Citrine Pressure Plate",
+  "block.orderofobsidian.ebony_door": "Ebony Door",
+  "block.orderofobsidian.ebony_trapdoor": "Ebony Trapdoor",
+
+  "block.orderofobsidian.pink_rose": "Pink Rose",
+  "block.orderofobsidian.potted_pink_rose": "Potted Pink Rose",
+
+  "block.orderofobsidian.winter_window": "Winter Window",
+  "block.orderofobsidian.citrine_lamp": "Citrine Lamp",
+
+  "block.orderofobsidian.cucumber_plant": "Cucumber Plant",
+
+  "block.orderofobsidian.ebony_log": "Ebony Log",
+  "block.orderofobsidian.ebony_planks": "Ebony Planks",
+  "block.orderofobsidian.ebony_wood": "Ebony Wood",
+  "block.orderofobsidian.stripped_ebony_log": "Stripped Ebony Log",
+  "block.orderofobsidian.stripped_ebony_wood": "Stripped Ebony Wood",
+  "block.orderofobsidian.ebony_leaves": "Ebony Leaves",
+  "block.orderofobsidian.ebony_sapling": "Ebony Sapling",
+
+  "block.orderofobsidian.gem_cutting_station": "Gem Cutting Station",
+  "block.orderofobsidian.ebony_sign": "Ebony Sign",
+  "block.orderofobsidian.animated_block": "Animated Block",
+
+  "itemGroup.tutorialtab": "Tutorial Mod",
+
+  "item.orderofobsidian.dowsing_rod.no_valuables": "No Valuables Found!",
+  "tooltip.orderofobsidian.dowsing_rod.tooltip.shift": "Right Click to find Valuables!",
+  "tooltip.orderofobsidian.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
+  "tooltip.orderofobsidian.block.speedy_block": "I am speed!",
+
+  "sounds.orderofobsidian.dowsing_rod_found_ore": "Dowsing Rod Found Item Sound",
+  "effect.orderofobsidian.freeze": "Freeze",
+
+  "entity.minecraft.villager.orderofobsidian.gem_cutter": "Gem Cutter",
+
+  "enchantment.orderofobsidian.lightning_striker": "Lightning Striker"
+}

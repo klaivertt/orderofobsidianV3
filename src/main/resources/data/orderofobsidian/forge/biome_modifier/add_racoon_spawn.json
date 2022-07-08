@@ -1,0 +1,10 @@
+{
+  "type": "orderofobsidian:entities",
+  "biomes": "#forge:is_plains",
+  "entity": {
+    "type": "orderofobsidian:racoon",
+    "weight": 80,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": {
+      "item": "tutorialmod:ebony_planks"
+    }
+  },
+  "pattern": [
+    "EE",
+    "EE",
+    "EE"
+  ],
+  "result": {
+    "item": "tutorialmod:ebony_door"
+  }
+}

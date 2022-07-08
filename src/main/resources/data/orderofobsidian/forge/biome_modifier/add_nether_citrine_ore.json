@@ -1,0 +1,5 @@
+{
+  "type": "orderofobsidian:ores",
+  "biomes": "#minecraft:is_nether",
+  "feature": "orderofobsidian:nether_citrine_ore_placed"
+}

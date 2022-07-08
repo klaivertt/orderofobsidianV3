@@ -1,0 +1,6 @@
+{
+  "parent": "orderofobsidian:item/kaupenbow",
+  "textures": {
+    "layer0": "orderofobsidian:item/kaupenbow_pulling_1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "orderofobsidian:block/ebony_planks",
+    "top": "orderofobsidian:block/ebony_planks",
+    "side": "orderofobsidian:block/ebony_planks"
+  }
+}

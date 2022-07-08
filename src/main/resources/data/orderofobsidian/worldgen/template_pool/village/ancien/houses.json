@@ -1,0 +1,210 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_2",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_3",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_4",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_5",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_small_house_6",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_medium_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_medium_house_2",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_butcher_shop_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_tool_smith_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_fletcher_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_shepherd_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_armorer_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_armorer_2",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_fisher_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_tannery_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_cartographer_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_cartographer_house_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_library_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_mason_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_weaponsmith_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:legacy_single_pool_element",
+        "location": "orderofobsidian:village/ancien/houses/ancien_temple_1",
+        "processors": "orderofobsidian:empty",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+    {
+      "element": {
+        "element_type": "orderofobsidian:empty_pool_element"
+      },
+      "weight": 5
+    }
+  ],
+  "fallback": "orderofobsidian:village/ancien/terminators",
+  "name": "orderofobsidian:village/ancien/houses"
+}
