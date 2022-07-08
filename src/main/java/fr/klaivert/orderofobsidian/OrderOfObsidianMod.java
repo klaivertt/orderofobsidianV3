@@ -87,8 +87,8 @@ public class OrderOfObsidianMod {
 
         GeckoLib.initialize();
 
-        ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, OrderOfObsidianClientConfigs.SPEC, "tutorialmod-client.toml");
-        ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, OrderOfObsidianCommonConfigs.SPEC, "tutorialmod-common.toml");
+        ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, OrderOfObsidianClientConfigs.SPEC, "ordeofobsidianmod-client.toml");
+        ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, OrderOfObsidianCommonConfigs.SPEC, "ordeofobsidianmod-common.toml");
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
