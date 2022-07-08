@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "orderofobsidian:block/miner_table" },
+    "facing=east": { "model": "orderofobsidian:block/miner_table", "y": 90 },
+    "facing=south": { "model": "orderofobsidian:block/miner_table", "y": 180 },
+    "facing=west": { "model": "orderofobsidian:block/miner_table", "y": 270 }
+  }
+}
