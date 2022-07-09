@@ -5,7 +5,7 @@ import fr.klaivert.orderofobsidian.block.ModBlocks;
 import fr.klaivert.orderofobsidian.entity.ModEntityTypes;
 import fr.klaivert.orderofobsidian.fluid.ModFluids;
 import fr.klaivert.orderofobsidian.item.custom.*;
-import fr.klaivert.orderofobsidian.sound.ModSounds;
+import fr.klaivert.orderofobsidian.screen.sound.ModSounds;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
@@ -136,6 +136,17 @@ public class ModItems {
             () -> new RecordItem(4, ModSounds.BAR_BRAWL,
                     new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB).stacksTo(1)));
 
+    public static final RegistryObject<Item> FLUFFY_MUSIC_DISC = ITEMS.register("fluffy_music_disc",
+            () -> new RecordItem(4, ModSounds.FLUFFY,
+                    new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> PARADISE_MUSIC_DISC = ITEMS.register("paradise_music_disc",
+            () -> new RecordItem(4, ModSounds.PARADISE,
+                    new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB).stacksTo(1)));
+
+    public static final RegistryObject<Item> CAT_REMIX_MUSIC_DISC = ITEMS.register("cat_remix_music_disc",
+            () -> new RecordItem(4, ModSounds.CAT_REMIX,
+                    new Item.Properties().tab(ModCreativeModeTab.ITEM_TAB).stacksTo(1)));
 
 
     public static final RegistryObject<Item> GEM_CUTTER_TOOL = ITEMS.register("gem_cutter_tool",

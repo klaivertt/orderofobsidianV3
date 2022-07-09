@@ -6,7 +6,7 @@ import fr.klaivert.orderofobsidian.world.feature.tree.EbonyTreeGrower;
 import fr.klaivert.orderofobsidian.OrderOfObsidianMod;
 import fr.klaivert.orderofobsidian.item.ModCreativeModeTab;
 import fr.klaivert.orderofobsidian.item.ModItems;
-import fr.klaivert.orderofobsidian.sound.ModSounds;
+import fr.klaivert.orderofobsidian.screen.sound.ModSounds;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.network.chat.Component;

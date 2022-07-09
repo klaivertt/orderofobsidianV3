@@ -1,4 +1,4 @@
-package fr.klaivert.orderofobsidian.sound;
+package fr.klaivert.orderofobsidian.screen.sound;
 
 import fr.klaivert.orderofobsidian.OrderOfObsidianMod;
 import net.minecraft.resources.ResourceLocation;
@@ -23,14 +23,14 @@ public class ModSounds {
     public static RegistryObject<SoundEvent> CITRINE_LAMP_FALL = registerSoundEvent("citrine_lamp_fall");
 
     public static RegistryObject<SoundEvent> BAR_BRAWL = registerSoundEvent("bar_brawl");
-
-
+    public static RegistryObject<SoundEvent> PARADISE = registerSoundEvent("paradise");
+    public static RegistryObject<SoundEvent> FLUFFY = registerSoundEvent("fluffy");
+    public static RegistryObject<SoundEvent> CAT_REMIX = registerSoundEvent("cat_remix");
     public static final ForgeSoundType CITRINE_LAMP_SOUNDS = new ForgeSoundType(1f, 1f,
             ModSounds.CITRINE_LAMP_BREAK, ModSounds.CITRINE_LAMP_STEP, ModSounds.CITRINE_LAMP_PLACE,
             ModSounds.CITRINE_LAMP_HIT, ModSounds.CITRINE_LAMP_FALL);
 
-
-    private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
+     private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
         return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(OrderOfObsidianMod.MOD_ID, name)));
     }
 

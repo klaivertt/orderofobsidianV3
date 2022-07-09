@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "orderofobsidian:item/c418_cat_remix_musique_disc"
+  }
+}

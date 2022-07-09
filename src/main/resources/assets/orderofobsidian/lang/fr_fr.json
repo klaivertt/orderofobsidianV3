@@ -1,0 +1,342 @@
+{
+
+  "item.orderofobsidian.citrine": "Citrine",
+  "item.orderofobsidian.raw_citrine": "Citrine brut",
+  "item.orderofobsidian.dowsing_rod": "bâton de Dowsing",
+  "item.orderofobsidian.cucumber": "comcombre",
+  "item.orderofobsidian.coal_coke": "charbon coke",
+
+  "item.orderofobsidian.citrine_pickaxe": "pioche en Citrine",
+  "item.orderofobsidian.citrine_axe": "hache en Citrine",
+  "item.orderofobsidian.citrine_shovel": "pelle en Citrine",
+  "item.orderofobsidian.citrine_hoe": "Houe citrine",
+  "item.orderofobsidian.citrine_sword": "épée en Citrine",
+  "item.orderofobsidian.citrine_bow": "arc en citrine",
+
+  "item.orderofobsidian.citrine_helmet": "casque en Citrine",
+  "item.orderofobsidian.citrine_chestplate": "plastron en Citrine",
+  "item.orderofobsidian.citrine_leggings": "jambiére Citrine",
+  "item.orderofobsidian.citrine_boots": "bottes Citrine",
+
+  "item.orderofobsidian.magic_dust": "poudre magique",
+  "item.orderofobsidian.data_tablet": "tablette de data",
+
+  "item.orderofobsidian.cucumber_seeds": "graine de comcombre",
+  "item.orderofobsidian.citrine_staff": "canne de Citrine",
+
+  "item.orderofobsidian.bar_brawl_music_disc": "Bar Brawl disque de musique",
+  "item.orderofobsidian.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "item.minecraft.potion.effect.freeze_potion": "Potion de géle",
+  "item.minecraft.splash_potion.effect.freeze_potion": "Potion jetable de géle",
+  "item.minecraft.lingering_potion.effect.freeze_potion": "Potion de géle persistante",
+
+  "item.orderofobsidian.gem_cutter_tool": "tailleur de gem",
+
+  "item.orderofobsidian.oxys": "Oxys",
+  "item.orderofobsidian.oxys_bow": "arc en Oxys",
+  "item.orderofobsidian.oxys_horse_armor": "armure de cheval en oxys",
+  "item.orderofobsidian.oxys_pickaxe": "pioche en Oxys",
+  "item.orderofobsidian.oxys_axe": "hache en Oxys",
+  "item.orderofobsidian.oxys_shovel": "pelle en Oxys",
+  "item.orderofobsidian.oxys_hoe": "houe en Oxys",
+  "item.orderofobsidian.oxys_sword": "épée en Oxys",
+  "item.orderofobsidian.oxys_hammer": "marteau en Oxys",
+  "item.orderofobsidian.oxys_stick": "bâton en Oxys",
+
+  "item.orderofobsidian.netherite_horse_armor": "armure de cheval en Netherite",
+  "item.orderofobsidian.moss_horse_armor": "armure de cheval en mousse",
+
+  "item.orderofobsidian.aikigite_ingot": "lingot d'Aikigite",
+  "item.orderofobsidian.raw_aikigite": "Aikigite brut",
+
+  "item.orderofobsidian.aluminium_ingot": "lIngot d'Aluminium",
+  "item.orderofobsidian.raw_aluminium": "Aluminium brut",
+  "item.orderofobsidian.aluminium_plate": "Aluminium Plate",
+
+  "item.orderofobsidian.avenronite_ingot": "lingot d'Avenronite",
+  "item.orderofobsidian.raw_avenronite": "Avenronite brut",
+
+  "item.orderofobsidian.bauherite_ingot": "lIngot de Bauherite",
+  "item.orderofobsidian.raw_bauherite": "Bauherite brut",
+
+  "item.orderofobsidian.edruelium_ingot": "lIngot d'Edruelium",
+  "item.orderofobsidian.raw_edruelium": "Edruelium brut",
+
+  "item.orderofobsidian.graphite_ingot": "lIngot de Graphite",
+  "item.orderofobsidian.graphite_dust": " poudre de Graphite",
+
+  "item.orderofobsidian.raw_lead": "lIngot de plomp",
+  "item.orderofobsidian.lead_ingot": "plomp brut",
+
+  "item.orderofobsidian.mithril_ingot": "lIngot de Mithril",
+  "item.orderofobsidian.raw_mithril": "Mithril brut",
+
+  "item.orderofobsidian.raw_pendorite": "Pendorite brut",
+  "item.orderofobsidian.pendorite_ingot": "lIngot Pendorite",
+
+  "item.orderofobsidian.silver_ingot": "lIngot d'argent",
+  "item.orderofobsidian.raw_silver": "argent brut",
+
+  "item.orderofobsidian.steel_dust": "poudre d'acier",
+  "item.orderofobsidian.steel_ingot": "lIngot d'acier",
+
+  "item.orderofobsidian.wheat_with_moss": "blé avec de la mousse",
+
+  "item.orderofobsidian.aikigite_helmet": "casque en Aikigite",
+  "item.orderofobsidian.aikigite_chestplate": "plastron en Aikigite",
+  "item.orderofobsidian.aikigite_leggings": "jambiere en Aikigite",
+  "item.orderofobsidian.aikigite_boots": "bottes en Aikigite ",
+
+  "item.orderofobsidian.aikigite_pickaxe": "pioche en Aikigite ",
+  "item.orderofobsidian.aikigite_axe": "hache en Aikigite ",
+  "item.orderofobsidian.aikigite_shovel": "pelle en Aikigite ",
+  "item.orderofobsidian.aikigite_sword": "épée en Aikigite ",
+  "item.orderofobsidian.aikigite_bow": "arc en Aikigite ",
+  "item.orderofobsidian.aikigite_hammer": "marteau en Aikigite ",
+
+  "item.orderofobsidian.avenronite_helmet": "casque en Avenronite ",
+  "item.orderofobsidian.avenronite_chestplate": "plastron en Avenronite ",
+  "item.orderofobsidian.avenronite_leggings": "jambiere en Avenronite ",
+  "item.orderofobsidian.avenronite_boots": "bottesen Avenronite ",
+
+  "item.orderofobsidian.avenronite_pickaxe": "piocheen Avenronite ",
+  "item.orderofobsidian.avenronite_axe": "hache en Avenronite ",
+  "item.orderofobsidian.avenronite_shovel": "pelleen Avenronite ",
+  "item.orderofobsidian.avenronite_hoe": "houeen Avenronite ",
+  "item.orderofobsidian.avenronite_sword": "épée en Avenronite ",
+  "item.orderofobsidian.avenronite_bow": "arc en Avenronite ",
+  "item.orderofobsidian.avenronite_hammer": "marteau en Avenronite ",
+
+  "item.orderofobsidian.bauherite_helmet": "casque en Bauherite ",
+  "item.orderofobsidian.bauherite_chestplate": "plastron en Bauherite ",
+  "item.orderofobsidian.bauherite_leggings": "jambiere en Bauherite ",
+  "item.orderofobsidian.bauherite_boots": "bottes en Bauherite ",
+
+  "item.orderofobsidian.bauherite_pickaxe": "pioche en Bauherite ",
+  "item.orderofobsidian.bauherite_axe": "hacheen Bauherite ",
+  "item.orderofobsidian.bauherite_shovel": "pelle en Bauherite ",
+  "item.orderofobsidian.bauherite_sword": "épée en Bauherite ",
+  "item.orderofobsidian.bauherite_bow": "arc en Bauherite ",
+  "item.orderofobsidian.bauherite_hammer": "marteau en Bauherite ",
+
+  "item.orderofobsidian.bone_helmet": "casque en os ",
+  "item.orderofobsidian.bone_chestplate": "plastron en os",
+  "item.orderofobsidian.bone_leggings": "jambiere",
+  "item.orderofobsidian.bone_boots": "bottes",
+
+  "item.orderofobsidian.bone_pickaxe": "pioche en os",
+  "item.orderofobsidian.bone_axe": "hache en os",
+  "item.orderofobsidian.bone_shovel": "pelle en os",
+  "item.orderofobsidian.bone_hoe": "houe en os",
+  "item.orderofobsidian.bone_sword": "épée en os",
+
+  "item.orderofobsidian.edruelium_helmet": "casquen en Edruelium ",
+  "item.orderofobsidian.edruelium_chestplate": "plastron en Edruelium ",
+  "item.orderofobsidian.edruelium_leggings": "jambiere en Edruelium ",
+  "item.orderofobsidian.edruelium_boots": "bottes en Edruelium ",
+
+  "item.orderofobsidian.edruelium_pickaxe": "pioche en Edruelium ",
+  "item.orderofobsidian.edruelium_axe": "hache en Edruelium ",
+  "item.orderofobsidian.edruelium_shovel": "pelle en Edruelium ",
+  "item.orderofobsidian.edruelium_hoe": "houe en Edruelium ",
+  "item.orderofobsidian.edruelium_sword": "épée en Edruelium ",
+  "item.orderofobsidian.edruelium_bow": "arc en Edruelium ",
+  "item.orderofobsidian.edruelium_hammer": "marteau en Edruelium ",
+
+  "item.orderofobsidian.mithril_helmet": "casque en Mithril ",
+  "item.orderofobsidian.mithril_chestplate": "plastron en Mithril ",
+  "item.orderofobsidian.mithril_leggings": "jambiere en Mithril ",
+  "item.orderofobsidian.mithril_boots": "bottes en Mithril ",
+
+  "item.orderofobsidian.mithril_pickaxe": "pioche en Mithril ",
+  "item.orderofobsidian.mithril_axe": "hache en Mithril ",
+  "item.orderofobsidian.mithril_shovel": "pelle en Mithril ",
+  "item.orderofobsidian.mithril_hoe": "houe en Mithril ",
+  "item.orderofobsidian.mithril_sword": "épée en Mithril ",
+
+  "item.orderofobsidian.netherrack_helmet": "casque en Netherrack ",
+  "item.orderofobsidian.netherrack_chestplate": "plastron en Netherrack ",
+  "item.orderofobsidian.netherrack_leggings": "jambiere en Netherrack ",
+  "item.orderofobsidian.netherrack_boots": "bottes en Netherrack ",
+
+  "item.orderofobsidian.obsidian_helmet": "casque en obsidienne ",
+  "item.orderofobsidian.obsidian_chestplate": "plastron en obsidienne ",
+  "item.orderofobsidian.obsidian_leggings": "jambiere en obsidienne ",
+  "item.orderofobsidian.obsidian_boots": "bottes en obsidienne ",
+
+  "item.orderofobsidian.obsidian_pickaxe": "pioche en obsidienne ",
+  "item.orderofobsidian.obsidian_axe": "hache en obsidienne ",
+  "item.orderofobsidian.obsidian_shovel": "pelle en obsidienne ",
+  "item.orderofobsidian.obsidian_hoe": "houe en obsidienne ",
+  "item.orderofobsidian.obsidian_sword": "épée en obsidienne ",
+  "item.orderofobsidian.obsidian_hammer": "marteau en obsidienne ",
+
+  "item.orderofobsidian.pendorite_pickaxe": "pioche en Pendorite ",
+  "item.orderofobsidian.pendorite_axe": "hache en Pendorite ",
+  "item.orderofobsidian.pendorite_shovel": "pelle en Pendorite ",
+  "item.orderofobsidian.pendorite_hoe": "houe en Pendorite ",
+  "item.orderofobsidian.pendorite_sword": "épée en Pendorite ",
+  "item.orderofobsidian.pendorite_horse_armor": "armure de chevaux en Pendorite",
+
+  "item.orderofobsidian.steel_helmet": "casque en acier ",
+  "item.orderofobsidian.steel_chestplate": "plastron en acier ",
+  "item.orderofobsidian.steel_leggings": "jambiere en acier ",
+  "item.orderofobsidian.steel_boots": "bottes en acier ",
+
+  "item.orderofobsidian.steel_pickaxe": "pioche en acier ",
+  "item.orderofobsidian.steel_axe": "hache en acier ",
+  "item.orderofobsidian.steel_shovel": "pelle en acier ",
+  "item.orderofobsidian.steel_hoe": "houe en acier ",
+  "item.orderofobsidian.steel_sword": "épée en acier ",
+
+  "item.orderofobsidian.stone_helmet": "casque pierre ",
+  "item.orderofobsidian.stone_chestplate": "plastron pierre ",
+  "item.orderofobsidian.stone_leggings": "jambiere pierre ",
+  "item.orderofobsidian.stone_boots": "bottes pierre ",
+
+  "item.orderofobsidian.wooden_helmet": "casque en bois ",
+  "item.orderofobsidian.wooden_chestplate": "plastron en bois ",
+  "item.orderofobsidian.wooden_leggings": "jambiere en bois ",
+  "item.orderofobsidian.wooden_boots": "bottes en bois ",
+
+  "item.orderofobsidian.oxys_apple": " pomme en Oxys",
+  "item.orderofobsidian.pendorite_apple": " pomme en Pendorite",
+  "item.orderofobsidian.diamond_apple": " pomme en diamant",
+  "item.orderofobsidian.netherite_apple": " pomme en Netherite",
+  "item.orderofobsidian.candy_apple": "pomme en d'amoure",
+
+  "item.orderofobsidian.chips": "frite",
+  "item.orderofobsidian.fried_egg": "oeuf frit",
+
+  "item.orderofobsidian.rice": "riz",
+  "item.orderofobsidian.rice_seeds": "graines de riz",
+  "item.orderofobsidian.cooked_rice": "riz préparé",
+
+  "item.orderofobsidian.sushi": "Sushi",
+
+  "block.orderofobsidian.aikigite_ore": " minerais d'Aikigite",
+  "block.orderofobsidian.aluminium_ore": " minerais d'Aluminium",
+  "block.orderofobsidian.avenronite_ore": " minerais d'Avenronite",
+  "block.orderofobsidian.bauherite_ore": " minerais de Bauherite",
+  "block.orderofobsidian.deepslate_aikigite_ore": "Ardoise des abîmes minerais de Aikigite",
+  "block.orderofobsidian.deepslate_bauherite_ore": "Ardoise des abîmes  minerais de Bauherite",
+  "block.orderofobsidian.deepslate_lead_ore": "Ardoise des abîmes  minerais de plomp",
+  "block.orderofobsidian.deepslate_mitril_ore": "Ardoise des abîmes  minerais de Mitril",
+  "block.orderofobsidian.deepslate_silver_ore": "Ardoise des abîmes  minerais de argent",
+  "block.orderofobsidian.edruelium_ore": "Edruelium minerais de ",
+  "block.orderofobsidian.endstone_pendorite_ore": "Endstone  minerais de Pendorite",
+  "block.orderofobsidian.graphite_ore": " minerais de Graphite",
+  "block.orderofobsidian.lead_ore": " minerais de plomp",
+  "block.orderofobsidian.mitril_ore": " minerais de Mitril",
+  "block.orderofobsidian.oxys_ore": " minerais de Oxys",
+  "block.orderofobsidian.pendorite_ore": " minerais de Pendorite",
+  "block.orderofobsidian.silver_ore": " minerais de argent",
+
+  "block.orderofobsidian.raw_aikigite_block": " Block Aikigite brut",
+  "block.orderofobsidian.raw_aluminium_block": " Block d'Aluminium brut",
+  "block.orderofobsidian.raw_avenronite_block": "Block d'Avenronite  brut",
+  "block.orderofobsidian.raw_bauherite_block": "Block de Bauherite  brut",
+  "block.orderofobsidian.raw_edruelium_block": "Block de Edruelium  brut",
+  "block.orderofobsidian.raw_lead_block": "Block de plomp brut",
+  "block.orderofobsidian.raw_mithril_block": "Block de Mithril  brut",
+  "block.orderofobsidian.raw_pendorite_block": "Block de Pendorite  brut ",
+  "block.orderofobsidian.raw_silver_block": "Block d'argent  brut",
+
+  "block.orderofobsidian.aikigite_block": " Block d'Aikigite",
+  
+  "block.orderofobsidian.aluminium_block": "Block d'Aluminium ",
+  "block.orderofobsidian.avenronite_block": "Block d'Avenronite ",
+  "block.orderofobsidian.bauherite_block": "Block de Bauherite ",
+  "block.orderofobsidian.edruelium_block": "Block de Edruelium ",
+  "block.orderofobsidian.lead_block": "Block de plomp ",
+  "block.orderofobsidian.mitril_block": "Block de Mithril ",
+  "block.orderofobsidian.oxys_block": "Block d'Oxys ",
+  "block.orderofobsidian.pendorite_block": "Block de Pendorite ",
+  "block.orderofobsidian.silver_block": "Block d'argent ",
+  "block.orderofobsidian.steel_block": "Block d'acier ",
+
+  "block.orderofobsidian.moss_bricks": "brique de mousse",
+  "block.orderofobsidian.moss_bricks_slab": "dalle de brique de mousse",
+  "block.orderofobsidian.moss_bricks_stairs": "escalier de brique de mousse",
+  "block.orderofobsidian.moss_bricks_wall": "mur de brique en mousse",
+  "block.orderofobsidian.moss_block_slab": "dalle en mousse",
+  "block.orderofobsidian.moss_block_stairs": "escalier en mousse",
+  "block.orderofobsidian.moss_block_wall": "mur en mousse",
+
+  "block.orderofobsidian.citrine_block": "Block de Citrine ",
+  "block.orderofobsidian.raw_citrine_block": "Block de  Citrine brut",
+  "block.orderofobsidian.citrine_ore": " minerais de Citrine",
+  "block.orderofobsidian.deepslate_citrine_ore": "Ardoise des abîmes minerais de Citrine",
+  "block.orderofobsidian.netherrack_citrine_ore": "Netherrack  minerais de Citrine ",
+  "block.orderofobsidian.endstone_citrine_ore": "Endstone  minerais de Citrine",
+  "block.orderofobsidian.speedy_block": "bloque rapide",
+
+  "block.orderofobsidian.citrine_slab": " dalle de Citrine",
+  "block.orderofobsidian.citrine_stairs": "escalier en Citrine ",
+  "block.orderofobsidian.citrine_fence": "barriere en Citrine ",
+  "block.orderofobsidian.citrine_wall": "mur en Citrine",
+  "block.orderofobsidian.citrine_fence_gate": "portail en Citrine",
+
+  "block.orderofobsidian.citrine_button": "bouton en Citrine",
+  "block.orderofobsidian.citrine_pressure_plate": "plaque de pression en citine",
+  "block.orderofobsidian.ebony_door": " porte en ébène",
+  "block.orderofobsidian.ebony_trapdoor": " Trappe en ébène",
+
+  "block.orderofobsidian.pink_rose": "rose Rose",
+  "block.orderofobsidian.potted_pink_rose": "Rose rose en pot",
+
+  "block.orderofobsidian.winter_window": "Fenêtre d'hiver",
+  "block.orderofobsidian.citrine_lamp": "Lampe Citrine ",
+
+  "block.orderofobsidian.cucumber_plant": "plante de comcombre",
+
+  "block.orderofobsidian.ebony_log": "Log ébène ",
+  "block.orderofobsidian.ebony_planks": " planche en ébène",
+  "block.orderofobsidian.ebony_wood": " bûche d'ébène ",
+  "block.orderofobsidian.stripped_ebony_log": "Stripped ébène Log",
+  "block.orderofobsidian.stripped_ebony_wood": "Stripped ébène wood",
+  "block.orderofobsidian.ebony_leaves": " feulle d'ébène",
+  "block.orderofobsidian.ebony_sapling": " pousse d'ébène",
+
+  "block.orderofobsidian.cut_graphite": "Cut Graphite",
+  "block.orderofobsidian.cut_graphite_stairs": "Cut Graphite escalier",
+  "block.orderofobsidian.cut_graphite_slab": "Cut Graphite dalle",
+  "block.orderofobsidian.cut_graphite_wall": "Cut Graphite Wall",
+  "block.orderofobsidian.graphite_block": "Block de Graphite ",
+
+  "block.orderofobsidian.gem_cutting_station": "Station de taille de gem",
+
+  "advancements.dubious_ore.title": "quelle est ce minerais douteux ?",
+  "advancements.dubious_ore.descr": "avoir un minerais d'oxis",
+
+  "advancements.netherite_horse_armor_created.title": "l'amour véritable",
+  "advancements.netherite_horse_armor_created.descr": "obtenir armure de chevaux en netherite",
+
+  "advancements.oxys_horse_armor_created.title":"bonne protection",
+  "advancements.oxys_horse_armor_created.descr": "obtenir armure de chevaux en oxys",
+
+  "advancements.areyousureyouwanttogrowwiththis.title": "Êtes-vous sûr de vouloir grandir avec ça ?",
+  "advancements.areyousureyouwanttogrowwiththis.descr": "si vous aimez jeter vos ressources par la fenêtre,c'est parfait pour vous.",
+
+  "advancements.orderofobsidian.end.oxys_armor.title": "Couvre-moi dans le minerais douteux",
+  "advancements.orderofobsidian.end.oxys_armor.description": "avoir l'amure toute les piéce de l'armure en oxys ",
+
+  "enchantment.orderofobsidian.auto_smelt": "cuisson automatique",
+  "enchantment.orderofobsidian.curse_of_backfire": "Malédiction du retour de flamme",
+  "enchantment.orderofobsidian.lightning_striker": "frappeur de foudre",
+
+  "itemGroup.tabitems": "orderofobsidian_objets",
+  "itemGroup.tabtools": "orderofobsidian_outils",
+  "itemGroup.weapontab": "orderofobsidian_armes ",
+  "itemGroup.tabarmor": "orderofobsidian_Armure",
+  "itemGroup.tabblock": "orderofobsidian_Block",
+
+  "item.orderofobsidian.dowsing_rod.no_valuables": "Aucun valeur d'objet trouvé !",
+  "tooltip.orderofobsidian.dowsing_rod.tooltip.shift": "clique droit pour trouver les valeurs!",
+  "tooltip.orderofobsidian.dowsing_rod.tooltip": "Presse §eSHIFT§r pour plus d'Information!",
+  "tooltip.orderofobsidian.block.speedy_block": "je suis rapide !",
+
+  "sounds.orderofobsidian.dowsing_rod_found_ore": "son de la baguette de Dowsing",
+  "effect.orderofobsidian.freeze": "Geler"
+}

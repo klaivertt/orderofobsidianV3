@@ -14,7 +14,7 @@ import fr.klaivert.orderofobsidian.particle.ModParticles;
 import fr.klaivert.orderofobsidian.potion.ModPotions;
 import fr.klaivert.orderofobsidian.recipe.ModRecipes;
 import fr.klaivert.orderofobsidian.screen.ModMenuTypes;
-import fr.klaivert.orderofobsidian.sound.ModSounds;
+import fr.klaivert.orderofobsidian.screen.sound.ModSounds;
 import fr.klaivert.orderofobsidian.villager.ModPOIs;
 import fr.klaivert.orderofobsidian.villager.ModVillagers;
 import fr.klaivert.orderofobsidian.world.biomemods.ModBiomeModifiers;

@@ -2,7 +2,7 @@ package fr.klaivert.orderofobsidian.item.custom;
 
 import fr.klaivert.orderofobsidian.item.ModItems;
 import fr.klaivert.orderofobsidian.particle.ModParticles;
-import fr.klaivert.orderofobsidian.sound.ModSounds;
+import fr.klaivert.orderofobsidian.screen.sound.ModSounds;
 import fr.klaivert.orderofobsidian.util.InventoryUtil;
 import fr.klaivert.orderofobsidian.util.ModTags;
 import net.minecraft.client.gui.screens.Screen;

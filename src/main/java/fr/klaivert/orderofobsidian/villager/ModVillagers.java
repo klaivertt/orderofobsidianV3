@@ -24,21 +24,35 @@ public class ModVillagers {
             () -> new PoiType(ImmutableSet.copyOf(ModBlocks.GEM_CUTTING_STATION.get().getStateDefinition().getPossibleStates()),
                     1, 1));
 
+    public static final RegistryObject<PoiType> MINER_POI = POI_TYPES.register("miner_poi",
+            () -> new PoiType(ImmutableSet.copyOf(ModBlocks.MINER_TABLES.get().getStateDefinition().getPossibleStates()),
+                    1, 1));
+
     public static final RegistryObject<VillagerProfession> GEM_CUTTER =
             VILLAGER_PROFESSIONS.register("gem_cutter",
                     () -> new VillagerProfession("gem_cutter", x -> x.get() == GEM_CUTTING_POI.get(),
                             x -> x.get() == GEM_CUTTING_POI.get(), ImmutableSet.of(), ImmutableSet.of(),
                             SoundEvents.VILLAGER_WORK_WEAPONSMITH));
 
+    public static final RegistryObject<VillagerProfession> MINER =
+            VILLAGER_PROFESSIONS.register("miner",
+                    () -> new VillagerProfession("miner", x -> x.get() == MINER_POI.get(),
+                            x -> x.get() == MINER_POI.get(), ImmutableSet.of(), ImmutableSet.of(),
+                            SoundEvents.VILLAGER_WORK_WEAPONSMITH));
+
 
     public static void registerPOIs() {
         try {
             ObfuscationReflectionHelper.findMethod(PoiType.class,
-                    "registerBlockStates", PoiType.class).invoke(null, GEM_CUTTING_POI.get());
+                    "registerBlockStates", PoiType.class).invoke(null, GEM_CUTTING_POI.get(),null, MINER_POI.get());
+
+
+
         } catch(InvocationTargetException | IllegalAccessException exception) {
             exception.printStackTrace();
         }
     }
+
 
     public static void register(IEventBus eventBus) {
         POI_TYPES.register(eventBus);
